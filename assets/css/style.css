@@ -5,7 +5,12 @@
 .logo1 {
   width: 10%;
 }
-
+h1 {
+  font-size: xx-large;
+}
+p {
+  font-size: larger;
+}
 a {
   text-decoration: none;
   color: aliceblue;
